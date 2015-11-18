@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- From: file:/F:/AndroidStudioProjects/Weather/app/src/main/res/values-xhdpi-960x640/dimens.xml -->
-    <eat-comment/>
-    <dimen name="time_interval">0.0dip</dimen>
-    <dimen name="time_marginBottom">20.0dip</dimen>
-    <dimen name="time_mask_height">112.0dip</dimen>
-    <dimen name="time_mask_width">108.0dip</dimen>
-</resources>

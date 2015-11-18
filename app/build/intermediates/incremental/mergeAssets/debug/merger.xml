@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="F:\AndroidStudioProjects\Weather\app\src\main\assets"><file name="city.db" path="F:\AndroidStudioProjects\Weather\app\src\main\assets\city.db"/><file name="ShareSDK.xml" path="F:\AndroidStudioProjects\Weather\app\src\main\assets\ShareSDK.xml"/></source></dataSet><dataSet config="debug"><source path="F:\AndroidStudioProjects\Weather\app\src\debug\assets"/></dataSet></merger>
