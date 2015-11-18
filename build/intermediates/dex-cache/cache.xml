@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-YouDao-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2b951c440c222788beb374aa9a30da4e736eae52">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-YouDao-2.3.7-7cd8d1508ca331d5e8b4837a1701ba5673d7b1c9.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Core-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="df6385791bdc0eab3414d903d65d272dca1c4413">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.3.7-90f60e985bb7b51803d2b7be003bfd6018a2c94d.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-QQ-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c16b41faab4bc7737573d32b70bc71ea52863105">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.3.7-7d69fd3b28f5a3d0e4f75321cfe689da421129c5.jar" />
+    </item>
+    <item
+        jar="F:\development\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-711809ddc18957514c1e12662d3b02e8efd4ddff.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-ShortMessage-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3d0548e49092cb7090e621c8535608c4db804e8">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-ShortMessage-2.3.7-ac3a1ed9b5d89e52b63c939114853a9c1ba2605a.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Dropbox-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="26bd2a375da0602b548bb0ea6132883936022013">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Dropbox-2.3.7-abe9a423e3d5b01742c2b0ed0b15f8aafee3e072.jar" />
+    </item>
+    <item
+        jar="F:\gradle_repository\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\gson-2.2.4-218d1b504b43e485c1e6cc602eba2853b06abfbd.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\mframework.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="25509058b34a5ee08dbf66e57078e3083735d200">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\mframework-e398f738eb8e96d1dec9a62a2c7b59b77c4ea64b.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-KaiXin-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b59f6214b6ba4c93399bee90a6ad2e259479a0a3">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-KaiXin-2.3.7-d53ed5b61f24b4193610aa110d1616c274a7758f.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-QZone-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4bfbbb26f3604faadd11003a7667d2fbf2eb17d8">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.3.7-95afb3d372e850504c96bd62c7fa2e620947af61.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Renren-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f0e91fcf2163f01b830ca66067ecbb1c90f85445">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Renren-2.3.7-04b99f3858e15acebae8e0a56b682d91507b5262.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-NetEaseMicroBlog-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0bec2d00890521e3284747daccd79427ea3c1971">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-NetEaseMicroBlog-2.3.7-ed98c9926a8015f5b7bc82576b3cb7100f7ee911.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Tumblr-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7eac0245bbb0fab125d9fef97c13ae7813b9ea75">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Tumblr-2.3.7-6075e72919a4d2ee5a615a314c3dbffd47e5795a.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-SohuSuishenkan-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3ca78828f6af1ad9ff20577e130ba3696d16bbd2">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-SohuSuishenkan-2.3.7-8e39df81f3578a3af349a78ec79b00f29afe152e.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Wechat-Favorite-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="baaed423d7f262ba4a82a0163ad6654f2904cdc2">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.3.7-2793dc33d3cb9febb00a63c55c4f943269825e7e.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-SouhuMicroBlog-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6600cb4062dad5ff3611ab5179921cc9a1a96f9">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-SouhuMicroBlog-2.3.7-399a83595eb0a2a6928552e2dd55fb8de67dc686.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Instagram-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="47976a418f06606c118478f4ce37231697ed48e6">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Instagram-2.3.7-d6de4c179a4dea6998346eabf9f3cde69494ea51.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-VKontakte-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="14521682b590740c60d84a71dd5b7fea4f1f94cf">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-VKontakte-2.3.7-681b63e717b5ab28322a6a5bd4f38e27dc108011.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Yixin-Moments-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e8eb5fb18b54f4088cf2744d26f7dae3fd8e99bf">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Yixin-Moments-2.3.7-d9b67774a5da4bbdab0bfc2ca132a5054bde8372.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-SinaWeibo-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b68d40e64d864e2ecafe7e4eb3ed3786e722a131">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.3.7-7965f99ee21e132cc8a1ca2c07137b9520813e19.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Douban-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0c129adee5e4cd10c8c0306f607d637c4ff63361">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Douban-2.3.7-af061fad81464f8156900e761585b70af8e698e1.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Linkedin-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f3004b75cdb693229f2bb2f5739ef99de1d75b7">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Linkedin-2.3.7-e8d082cc386a6baa35b71793b5f2c7c56b03b168.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Foursquare-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="37567d0b9e770d15fa8b2e11e67119a84911d00e">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Foursquare-2.3.7-98cf8d2515676868cf175889a4020c2259a8c5e8.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0-60835a35faab6d3448bdebb6ff89ab541c3b06c1.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Flickr-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cd873c394f217dfceb03c1b68ad531f20cbca5ab">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Flickr-2.3.7-677d0c36d3190c53997e9e6a443d1e71698dcf07.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Wechat-Core-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5da302fb127e7c4b622b1b71e5b16a0d1abcc5a9">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.3.7-621a7afa6a3376f195990f7a82d0449d135c72a6.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Pinterest-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f300f537cbe1f1b1761cc755e86bbfdcbc9670e6">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Pinterest-2.3.7-fac2f82c9ce1abd10852e0b1d4b25789d75b36bb.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Facebook-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a6116a494d9b1a3e5840634788ad3156acf41858">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Facebook-2.3.7-69e5f3af1426386335051d2c31eda0aa9c1123bb.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Wechat-Moments-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="86bc0629d700cdb3690b95beb51d031bb1d8175d">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.3.7-72544d3c1b36cb39bace1f080ebfd0e324d39115.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Wechat-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a193f40020c31cf26555f7a66e39f34fba208f6f">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.3.7-e3be8355d4cc5fe1cf47269d8aea9823b4197ca8.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Evernote-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb923da5a8f6a108293f591ea70146c0dfcae9f8">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Evernote-2.3.7-1535db15909ee5bfecd07db3a97c36a19e73ff2a.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Yixin-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="641ebeff45fa4af630ec0f6bb12f4ceeb18508e5">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Yixin-2.3.7-02b677cb373204a67e0d0fa89644f147902ed951.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-TencentWeibo-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5a2ffef71a80f0f48e2fa2103992e2244c9812bc">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-TencentWeibo-2.3.7-c2a965467eaa9b4ad671d076fc7c4647d730e982.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Twitter-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="46b16b288872432d0b36e4858c64ff542eb7c1f9">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Twitter-2.3.7-6d39fb14580b626926dec6307cdd29156e01b955.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Mingdao-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2bfa47b44ca86b35fcfa7c93d2102f92a419497a">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Mingdao-2.3.7-0e7abd5732f6d721435dad7706c0c0bfd5b7e1e4.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\locSDK_3.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\locSDK_3.3-724fbb1696dec0333ee720ca4b096908b9a88d71.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Email-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0564cf05b95408a4dca85526bfef103ecc6b415b">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Email-2.3.7-3b1600a7d1bf19ad880a748ca0216df660ac31e8.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-GooglePlus-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c02526ff4f3f0853007a7d2226c2db5a60992f7f">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-GooglePlus-2.3.7-2da9e649df9599f6ec9cbafd8981f8d6317221e6.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\Weather\app\libs\ShareSDK-Yixin-Core-2.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c7c837deda52c113b578ff66833711c40f379523">
+        <dex dex="F:\AndroidStudioProjects\Weather\app\build\intermediates\pre-dexed\debug\ShareSDK-Yixin-Core-2.3.7-2cf4c9ab98954c856b7ae1a18deb9e47fd2cce0a.jar" />
+    </item>
+
+</items>

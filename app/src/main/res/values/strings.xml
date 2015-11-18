@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">天气</string>
+    <string name="channel_id">baidu_news</string>
+    <string name="ns_appkey">2x1kfBk63z</string>
+    <string name="version_build_num">更新序号：Build 262</string>
+    <string name="versionnum">V3.4.1</string>
+    <string name="copyright">Copyright © 2013 NetEase Inc. All Rights Reserved</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="net_err">网络不给力</string>
+    <string name="post">提交</string>
+    <string name="wait">请稍侯…</string>
+
+    <string name="biz_plugin_weather_ip_query_failed">没有找到您当前位置,点击重试</string>
+    <string name="biz_plugin_weather_ip_query_city">定位到的城市</string>
+    <string name="biz_plugin_weather_ip_querying">正在查找…</string>
+    <string name="biz_plugin_weather_search_city_hint">搜索全国城市(中文/拼音)</string>
+    <string name="biz_plugin_weather_current_city">当前选择的城市-</string>
+    <string name="biz_plugin_weather_frequent_city">经常选择的城市</string>
+    <string name="biz_plugin_weather_update_time_format">MM月dd日 HH:mm更新</string>
+    <string name="biz_plugin_weather_today_time_format">MM月dd日</string>
+    <string name="biz_plugin_weather_actionbar_title">%s天气</string>
+    <string name="biz_plugin_weather_no_data_tip">无法获取天气信息</string>
+    <string name="biz_plugin_weather_selectcity_title">选择城市</string>
+
+    <string name="app_widget_no_weather">N/A\nN/A</string>
+
+</resources>
